@@ -1,0 +1,56 @@
+h1 {
+    color: aliceblue;
+    background-color: red;
+}
+
+.three {
+    color: aliceblue;
+    background-image: url(../work/coffee.jpg);
+}
+
+.one{
+    color: red;
+    background-image: url(../work/coffeee.jpg);
+    background-position: 0% 50%;
+    background-color: blueviolet;
+    margin-color:bink;
+    padding: 5% 10;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 70%;
+}
+.two{
+    background-color: blue;
+    padding: 0px 5% 5% 0%;
+    margin: 0% 40% 5% 5%;
+    border-color: aquamarine;
+
+}
+h2{
+    color: red;
+}
+h3{
+    color: blue;
+}
+.four{
+    color: green;
+}
+.five{
+    color: blue;
+}
+.six{
+    color: green;
+}
+.onne{
+    color: brown;
+}
+h4{
+    color: red;
+}
+h5{
+    color: black;
+}
+
+
+
+
